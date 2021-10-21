@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RauleaRobert
-- 👀 I’m interested in 3D Printing , CNC Machining , Coding.
+- 👀 I’m interested in 3D Printing , CNC Machining ,Laser cutting, Coding.
 - 🌱 I’m currently learning JavaScript / TypeScript.
 
 <!---
